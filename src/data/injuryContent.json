@@ -1,0 +1,331 @@
+{
+  "basketball": {
+    "injuries": [
+      {
+        "name": "Ankle Injury",
+        "preventions": [
+          "Maintain proper fitness; injury rates are higher for athletes that are not prepared",
+          "Use braces or athletic tape for added stability, especially for players with previous sprains",
+          "Wear basketball shoes with strong ankle support, cushioning, and traction to prevent slipping and support lateral movements"
+        ],
+        "warmup": [
+          "Standing calf stretch",
+          "Bent-knee calf stretch",
+          "Seated towel stretch"
+        ],
+        "sources": [
+          "https://ncys.org/wp-content/uploads/2022/02/2022_ST_Basketball-Injuries-2.pdf",
+          "https://achillesfootandankle.com/ankle-injury-rehabilitation-exercises/"
+        ]
+      },
+      {
+        "name": "Foot Fracture",
+        "preventions": [
+          "Wear proper footwear to reduce stress on foot and leg bones",
+          "Maintain a healthy diet to support bone strength",
+          "Maintain a healthy weight to reduce stress on bones during activity"
+        ],
+        "warmup": [
+          "Calf stretch (back knee straight)",
+          "Ankle swivel on a towel",
+          "Resisted ankle inversion/eversion"
+        ],
+        "sources": [
+          "https://nyulangone.org/conditions/stress-fractures/prevention",
+          "https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=bo1622"
+        ]
+      },
+      {
+        "name": "Jammed Fingers",
+        "preventions": [
+          "Learn correct catching and handling techniques to avoid finger injuries",
+          "Use buddy taping for extra stability and protection",
+          "Strengthen grip to improve finger resilience"
+        ],
+        "warmup": [
+          "Towel squeeze",
+          "Finger lift",
+          "Thumb opposition"
+        ],
+        "sources": [
+          "https://parkerperformanceinstitute.com/blog/winter-basketball-basics-preventing-ankle-sprains-and-finger-injuries/",
+          "https://www.posmc.com/healing-hands-in-youth-sports-tips-for-finger-sprains/"
+        ]
+      },
+      {
+        "name": "Knee Injuries",
+        "preventions": [
+          "Strengthen hamstrings, quadriceps, and calves to support knee stability",
+          "Use proper technique when jumping, pivoting, and running",
+          "Rest when experiencing knee discomfort to prevent worsening injury"
+        ],
+        "warmup": [
+          "High knees",
+          "Quad stretch",
+          "Foam rolling"
+        ],
+        "sources": [
+          "https://www.aoaortho.com/preventing-knee-injuries-during-high-impact-sports/",
+          "https://www.donjoystore.com/basketball-exercises-to-warm-up-knees?srsltid=AfmBOopJyofkb63NjraQHalnx-dsI8rnB_gx54D85EnVExi3NG6BOV8i"
+        ]
+      },
+      {
+        "name": "Facial Cuts",
+        "preventions": [
+          "Use a mouth guard to protect teeth and mouth",
+          "Wear safe sports glasses to protect eyes during play",
+          "Remove jewelry and avoid chewing gum during games"
+        ],
+        "warmup": [],
+        "sources": [
+          "https://orthoinfo.aaos.org/en/staying-healthy/basketball-injury-prevention/"
+        ]
+      },
+      {
+        "name": "Deep Thigh Bruising",
+        "preventions": [
+          "Strengthen muscles around joints to reduce injury risk",
+          "Take breaks during games or practice",
+          "Be aware of surroundings and avoid unnecessary contact"
+        ],
+        "warmup": [
+          "Jumping jacks",
+          "Lunges",
+          "Squats"
+        ],
+        "sources": [
+          "https://www.basketballforcoaches.com/basketball-warm-ups/",
+          "https://www.taylorharrismd.com/pdf/basketball-injuries-prevention.pdf"
+        ]
+      },
+      {
+        "name": "Overuse Injuries",
+        "preventions": [
+          "Stay hydrated by drinking water regularly during and after play",
+          "Take regular breaks to avoid muscle overuse",
+          "Maintain consistent strength and conditioning training"
+        ],
+        "warmup": [
+          "Light jog",
+          "Jumping drills",
+          "Dynamic stretching (high knees, lunges, leg swings)"
+        ],
+        "sources": [
+          "https://orthoinfo.aaos.org/en/staying-healthy/basketball-injury-prevention/",
+          "https://www.physicaltherapyinnovations.com/2025/03/21/stay-in-the-game-injury-prevention-tips-for-basketball-players/"
+        ]
+      }
+    ]
+  },
+  "football": {
+    "injuries": [
+      {
+        "name": "Head and Neck Injury",
+        "preventions": [
+          "Use proper tackling technique (\"heads up\" football)",
+          "Complete neck-strengthening exercises",
+          "Wear helmets and any protective gear correctly"
+        ],
+        "warmup": [
+          "Manual neck resistance",
+          "Shoulder shrugs",
+          "Neck planks"
+        ],
+        "sources": [
+          "https://www.nfl.com/news/get-ahead-of-the-game-with-these-neck-exercises-0ap3000000602977",
+          "https://www.uiltexas.org/health/info/reducing-head-and-neck-injuries-in-football"
+        ]
+      },
+      {
+        "name": "Shoulder Injury",
+        "preventions": [
+          "Strengthen muscles surrounding the shoulder joint",
+          "Avoid tackles with a leading shoulder",
+          "Allow time for resting and recovery for shoulder joints and muscles"
+        ],
+        "warmup": [
+          "Arm circles",
+          "External/internal rotation with bands",
+          "Band pull-aparts"
+        ],
+        "sources": [
+          "https://www.brianhillmd.com/blog/shoulder-injuries-in-the-football-player-42858.html",
+          "https://www.truesportsphysicaltherapy.com/blogs/prevent-shoulder-injuries-top-warm-up-routines-for-athletes"
+        ]
+      },
+      {
+        "name": "Knee Injury",
+        "preventions": [
+          "Focus on hamstrings, quadriceps, and calves to support and stabilize the knees",
+          "Listen to your body and rest if there's any discomfort. Pushing through pain can lead to more serious injuries",
+          "Wear proper footwear that offers support, absorbs impact, and protects the joints"
+        ],
+        "warmup": [
+          "High knees",
+          "Lunges",
+          "Nordic hamstring curls"
+        ],
+        "sources": [
+          "https://www.aoaortho.com/preventing-knee-injuries-during-high-impact-sports/",
+          "https://learning.ussoccer.com/articles/hip/article/acl-prevention"
+        ]
+      },
+      {
+        "name": "Ankle Injury",
+        "preventions": [
+          "Incorporate ankle strengthening during gym sessions",
+          "Brace or tape ankles during high-risk activities",
+          "Choose cleats with great ankle support to prevent rolling the ankle"
+        ],
+        "warmup": [
+          "Calf raises",
+          "Single-leg balances",
+          "Ankle hops"
+        ],
+        "sources": [
+          "https://dynamicsportsmedicine.com/preventing-ankle-sprains",
+          "https://www.donjoystore.com/blog/football-ankle-sprains-recovery-rehab-and-prevention-for-players/"
+        ]
+      },
+      {
+        "name": "Overuse",
+        "preventions": [
+          "Consistently condition year-round, even during off-season",
+          "Rest to allow muscles to repair and reduce soreness",
+          "Cross-train with other sports or exercises that target different muscle groups to prevent repetitive stress"
+        ],
+        "warmup": [
+          "Lateral shuffles",
+          "Inchworms",
+          "Ramped sprints"
+        ],
+        "sources": [
+          "https://www.rothmanortho.com/blog/football-injury-prevention-measures/",
+          "https://jubileesportsphysio.com.au/dealing-injuries/fifa-11-warm-proven-reduce-injuries/"
+        ]
+      },
+      {
+        "name": "Heat Injury",
+        "preventions": [
+          "Constantly hydrate before, during, and after games or practices",
+          "Remove your football gear during breaks to allow body heat to escape",
+          "Avoid jumping from cool environments straight into intense, full-pad training; gradually increase intensity in the heat"
+        ],
+        "warmup": [
+          "Leg swings (forward/backward)",
+          "Light jogging / cardio",
+          "Lateral shuffles"
+        ],
+        "sources": [
+          "https://o-d.com/the-power-of-proper-warm-up-and-cool-down-exercises-in-football/",
+          "https://www.hopkinsmedicine.org/health/wellness-and-prevention/heat-related-illness-and-young-athletes-3-important-things-parents-and-coaches-need-to-know"
+        ]
+      }
+    ]
+  },
+  "volleyball": {
+    "injuries": [
+      {
+        "name": "Ankle Sprain",
+        "preventions": [
+          "Maintain proper fitness; injury rates are higher for athletes that are not prepared",
+          "Use braces or athletic tape for added stability, especially for players with previous sprains",
+          "Wear court shoes with strong ankle support, cushioning, and traction to support lateral movements"
+        ],
+        "warmup": [
+          "Standing calf stretch",
+          "Bent-knee calf stretch",
+          "Seated towel stretch"
+        ],
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC2564299/",
+          "https://patient.uwhealth.org/education/easy-steps-to-help-avoid-common-volleyball-injuries"
+        ]
+      },
+      {
+        "name": "ACL Injury",
+        "preventions": [
+          "Use proper jumping and landing techniques and avoid straightening the knees on landing",
+          "Strengthen the quadriceps, hamstrings, and glutes to provide stability to the knee",
+          "Run prevention warm-up routines at least 3x a week before, during, and after season"
+        ],
+        "warmup": [
+          "Box jumps, vertical jumps, and lateral movements",
+          "Single-leg balancing",
+          "Planks"
+        ],
+        "sources": [
+          "https://jvavolleyball.org/serve-winning-season-through-acl-injury-prevention/"
+        ]
+      },
+      {
+        "name": "Shoulder Injury",
+        "preventions": [
+          "Focus on exercises that strengthen the muscles around the shoulder joint",
+          "Work with coaches to ensure your hitting mechanics are correct",
+          "Shoulder injuries are often repetitive — rest between games or training sessions"
+        ],
+        "warmup": [
+          "External/internal rotation",
+          "Band pull-aparts",
+          "Front/back extensions"
+        ],
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/37812954/",
+          "https://www.goldmedalsquared.com/post/how-to-warm-up-your-shoulder-for-volleyball-practice"
+        ]
+      },
+      {
+        "name": "Finger Injury",
+        "preventions": [
+          "Tape an injured or vulnerable finger to a healthy one for extra stability",
+          "Strengthen your grip with proper exercises to prevent finger injuries",
+          "Maintain good physical condition so muscles and tendons can handle impact"
+        ],
+        "warmup": [
+          "Finger spreads / extension",
+          "Wrist and finger rolls",
+          "Individual finger presses"
+        ],
+        "sources": [
+          "https://www.elitephysiotherapy.in/finger-injuries-in-volleyball-and-its-best-physiotherapy-management/",
+          "https://www.shieldhealthandfitness.com/help-guide/sports-tape-for-fingers"
+        ]
+      },
+      {
+        "name": "Head Injury",
+        "preventions": [
+          "Clearly call \"mine\" or \"I got it\" when the ball is in the air to avoid teammate collisions",
+          "Watch for balls coming from different courts, especially during warm-ups",
+          "Never turn your back to the net during warm-ups or active play to avoid being hit by unexpected serves or hits"
+        ],
+        "warmup": [
+          "Neck activation / isometric holds",
+          "Light cardio",
+          "Approach jumps"
+        ],
+        "sources": [
+          "https://www.cdc.gov/widgets/micrositeConcussion/index.html?chost=www.williamsburgvolleyball.com",
+          "https://www.allvolleyball.com/blogs/news/volleyball-injury-prevention-recovery-tips-2025-guide"
+        ]
+      },
+      {
+        "name": "Overuse",
+        "preventions": [
+          "Work with coaches to ensure proper form when hitting, serving, and blocking to avoid overstraining joints",
+          "Take 1-2 days off per week to allow muscles and joints to repair",
+          "Wear protective and supportive shoes to alleviate knee and ankle strain"
+        ],
+        "warmup": [
+          "Light cardio (jogging, high knees, butt kicks)",
+          "Shoulder activation",
+          "Controlled squats"
+        ],
+        "sources": [
+          "https://orthoinfo.aaos.org/en/staying-healthy/volleyball-injury-prevention/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12287263/"
+        ]
+      }
+    ]
+  }
+}
