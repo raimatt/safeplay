@@ -193,22 +193,22 @@ export default function App() {
             <CardHeader>
               <CardTitle className="text-base sm:text-lg font-semibold">Raiden Lazaro</CardTitle>
               <CardDescription>
-                Senior CS Web & Mobile App Development Major @ Oregon State University
+                Senior · CS Web &amp; Mobile Development · Oregon State University
               </CardDescription>
             </CardHeader>
             <CardFooter className="text-sm leading-relaxed">
-              I'm a trash Full-Stack Engineer, but I'm a professional 2K player. I'm very hard to guard. Do not mess with me...
+              Full-stack engineer with a focus on web and mobile development. Led the design and implementation of SafePlay's frontend architecture.
             </CardFooter>
           </Card>
           <Card className="rounded-2xl shadow-md">
             <CardHeader>
               <CardTitle className="text-base sm:text-lg font-semibold">Rylan Lazaro</CardTitle>
               <CardDescription>
-                Sophomore CS Cybersecurity Major @ Oregon State University
+                Sophomore · CS Cybersecurity · Oregon State University
               </CardDescription>
             </CardHeader>
             <CardFooter className="text-sm leading-relaxed">
-              I'm an aspiring Network Engineer and currently work @ NOC. I am very good at Rainbow Six Siege. Please 1v1 me...
+              Cybersecurity-focused engineer with hands-on experience in network operations. Led the implemention of the risk scoring engine.
             </CardFooter>
           </Card>
         </div>

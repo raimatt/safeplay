@@ -1,16 +1,66 @@
-# React + Vite
+# SafePlay
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Personalized sports injury risk assessment for young athletes — no signup, runs in your browser, takes 30 seconds.**
 
-Currently, two official plugins are available:
+[![Live Site](https://img.shields.io/badge/Live%20Site-Visit-blue)](safeplay-three.vercel.app)
+[![Demo Video](https://img.shields.io/badge/Demo-YouTube-red)](https://youtu.be/q-CxZZsdmQM)
+[![Hackathon Project](https://img.shields.io/badge/Project-Hackathon-orange)](https://github.com/raimatt/safeplay)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[![SafePlay Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](YOUR_YOUTUBE_URL_HERE)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## About
+
+Young athletes get injured constantly, and most of those injuries are preventable. The problem is that athletes do not know their own risk — sports science has the answers, but there has never been an easy way to access them.
+
+SafePlay bridges that gap. Answer 5–6 questions about how you play and it generates a ranked, personalized injury risk profile with explanations, a prevention plan, a warm-up guide, and vetted sports medicine resources — all in your browser, no account required.
+
+Built at a hackathon by **Raiden Lazaro** and **Rylan Lazaro** (Oregon State University).
+
+---
+
+## Features
+
+- **3 sports supported** — Basketball, Football, and Volleyball
+- **Personalized risk scoring** — 144 factor conditions across 19 injury types, ranked by your specific answers
+- **Explains the why** — each risk surfaces the exact factors (position, frequency, environment, injury history) driving your score
+- **4-tab dashboard** — Risk Summary, Prevention Plan, Warm-Up Guide, and Resources
+- **54 curated prevention strategies** sourced from vetted sports medicine literature
+- **Fully client-side** — no backend, no database, no signup, instant results
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|---|---|
+| Frontend | React 19, Vite |
+| Styling | Tailwind CSS, shadcn/ui |
+| Risk Engine | Vanilla JavaScript (6 modules) |
+| Deployment | Vercel |
+
+---
+
+## Run Locally
+
+```bash
+git clone https://github.com/raimatt/safeplay.git
+cd safeplay
+npm install
+npm run dev
+```
+
+---
+
+## Team
+
+| Name | School | Major |
+|---|---|---|
+| Raiden Lazaro | Oregon State University | CS — Web & Mobile Development |
+| Rylan Lazaro | Oregon State University | CS — Cybersecurity |

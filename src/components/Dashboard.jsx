@@ -39,30 +39,28 @@ export default function Dashboard({ explanation, topInjuries = [] }) {
 
             <Tabs defaultValue="risk-summary" className="w-full max-w-6xl mx-auto mt-6 sm:mt-8">
 
-                <div className="overflow-x-auto -mx-4 px-4 sm:mx-0 sm:px-0">
-                    <TabsList className="
-                        flex justify-start sm:justify-center
-                        w-max sm:w-full
-                        gap-1 sm:gap-2 md:gap-3
-                        p-2 md:p-3
-                        rounded-xl
-                        bg-muted/40 backdrop-blur-md border
-                        mb-3
-                    ">
-                        <TabsTrigger className="text-xs sm:text-sm md:text-base px-3 sm:px-4 py-2 md:py-3 whitespace-nowrap" value="risk-summary">
-                            Risk Summary
-                        </TabsTrigger>
-                        <TabsTrigger className="text-xs sm:text-sm md:text-base px-3 sm:px-4 py-2 md:py-3 whitespace-nowrap" value="prevention-plan">
-                            Prevention Plan
-                        </TabsTrigger>
-                        <TabsTrigger className="text-xs sm:text-sm md:text-base px-3 sm:px-4 py-2 md:py-3 whitespace-nowrap" value="warmup">
-                            Warm-Up Guide
-                        </TabsTrigger>
-                        <TabsTrigger className="text-xs sm:text-sm md:text-base px-3 sm:px-4 py-2 md:py-3 whitespace-nowrap" value="resources">
-                            Resources
-                        </TabsTrigger>
-                    </TabsList>
-                </div>
+                <TabsList className="
+                    flex flex-wrap sm:flex-nowrap justify-center
+                    w-full h-auto
+                    gap-1 sm:gap-2 md:gap-3
+                    p-2 md:p-3
+                    rounded-xl
+                    bg-muted/40 backdrop-blur-md border
+                    mb-3
+                ">
+                    <TabsTrigger className="basis-[calc(50%-2px)] sm:basis-auto sm:flex-1 text-xs sm:text-sm md:text-base px-3 sm:px-4 py-2 md:py-3" value="risk-summary">
+                        Risk Summary
+                    </TabsTrigger>
+                    <TabsTrigger className="basis-[calc(50%-2px)] sm:basis-auto sm:flex-1 text-xs sm:text-sm md:text-base px-3 sm:px-4 py-2 md:py-3" value="prevention-plan">
+                        Prevention Plan
+                    </TabsTrigger>
+                    <TabsTrigger className="basis-[calc(50%-2px)] sm:basis-auto sm:flex-1 text-xs sm:text-sm md:text-base px-3 sm:px-4 py-2 md:py-3" value="warmup">
+                        Warm-Up Guide
+                    </TabsTrigger>
+                    <TabsTrigger className="basis-[calc(50%-2px)] sm:basis-auto sm:flex-1 text-xs sm:text-sm md:text-base px-3 sm:px-4 py-2 md:py-3" value="resources">
+                        Resources
+                    </TabsTrigger>
+                </TabsList>
 
                 <TabsContent value="risk-summary">
                     <Card>
