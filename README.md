@@ -2,7 +2,7 @@
 
 **Personalized sports injury risk assessment for young athletes. No signup, runs in your browser, takes 30 seconds.**
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-Visit-blue)](safeplay-three.vercel.app)
+[![Live Site](https://img.shields.io/badge/Live%20Site-Visit-blue)](https://safeplay-three.vercel.app/)
 [![Demo Video](https://img.shields.io/badge/Demo-YouTube-red)](https://youtu.be/q-CxZZsdmQM)
 [![Hackathon Project](https://img.shields.io/badge/Project-Hackathon-orange)](https://github.com/raimatt/safeplay)
 
