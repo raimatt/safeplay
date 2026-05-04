@@ -8,18 +8,11 @@
 
 ---
 
-## Demo
-
-[![SafePlay Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](YOUR_YOUTUBE_URL_HERE)
-
-
----
-
 ## About
 
-Young athletes get injured constantly, and most of those injuries are preventable. The problem is that athletes do not know their own risk — sports science has the answers, but there has never been an easy way to access them.
+Young athletes get injured constantly, and most of those injuries are preventable. The problem is that athletes do not know their own risk. Sports science has the answers, but there has never been an easy way to access them.
 
-SafePlay bridges that gap. Answer 5–6 questions about how you play and it generates a ranked, personalized injury risk profile with explanations, a prevention plan, a warm-up guide, and vetted sports medicine resources — all in your browser, no account required.
+SafePlay bridges that gap. Answer 5–6 questions about how you play and it generates a ranked, personalized injury risk profile with explanations, a prevention plan, a warm-up guide, and vetted sports medicine resources. All in your browser, no account required.
 
 Built at a hackathon by **Raiden Lazaro** and **Rylan Lazaro** (Oregon State University).
 
